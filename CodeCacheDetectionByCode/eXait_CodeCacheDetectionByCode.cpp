@@ -13,7 +13,7 @@
 #include <windows.h> // for EXCEPTION_ACCESS_VIOLATION
 #include <excpt.h>
 #include <vector>
-#include <MemUpdateMapInformations.h>
+#include "MemUpdateMapInformations.h"
 
 #include <string.h>
 
